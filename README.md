@@ -11,4 +11,7 @@ This project is about using Pytesseract OCR Engine to detect tables in an Image.
   Make sure all the image files and .py file is in the same directory.
   Enjoy the program !
   
+  For any query:
+  Email - officialsiddharthchauhan@gmail.com
+  
 
